@@ -1,2 +1,1 @@
-This is all new file.
-Success test again.
+Testing again..
