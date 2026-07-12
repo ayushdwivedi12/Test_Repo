@@ -1,3 +1,1 @@
-I am a record.
-and I am updated now.
-new update again 
+This is all new file.
